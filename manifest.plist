@@ -17,7 +17,7 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>57*57尺寸的icon下载地址</string>
+                    <string>https://github.com/1365102044/gwc_cs/raw/master/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>内测app的bundleidentifier</string>
+                <string>com.cs.weihai</string>
                 <key>bundle-version</key>
-                <string>版本号</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>应用名称</string>
+                <string>公务用车</string>
             </dict>
         </dict>
     </array>
