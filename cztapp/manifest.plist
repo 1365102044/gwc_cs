@@ -17,7 +17,7 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/1365102044/gwc_cs/blob/master/cztapp/icon.png</string>
+                    <string>https://github.com/1365102044/gwc_cs/raw/master/cztapp/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -34,6 +34,8 @@
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
+                <key>platform-identifier</key>
+                <string>com.apple.platform.iphoneos</string>
                 <key>title</key>
                 <string>城镇通司机端</string>
             </dict>
