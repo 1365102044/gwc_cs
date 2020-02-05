@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/1365102044/gwc_cs/raw/master/cs_weihai.ipa</string>
+                    <string>https://github.com/1365102044/gwc_cs/blob/master/cztapp/NetCarDriver.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/1365102044/gwc_cs/raw/master/icon.png</string>
+                    <string>https://github.com/1365102044/gwc_cs/blob/master/cztapp/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.cs.weihai</string>
+                <string>com.fsgx.NetCarDriver</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>公务用车</string>
+                <string>城镇通司机端</string>
             </dict>
         </dict>
     </array>
